@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    width: 50px;
+}
+
+header {
+    background-color: black;
+}
+
+main img {
+    width: 150px;
+    height: 150px;
+    margin: 5%;
+   
+}
+
+h1 {
+    text-align: center ;
+}
+
+h2 {
+    margin-left: 200px;
+}
+
+header img {
+    margin-left: 25px ;
+}
+
+span {
+    color: red;
+}
+
+footer {
+ background-color: black;
+ color: yellow;
+ padding: 10px;
+}
